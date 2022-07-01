@@ -1,0 +1,1 @@
+romsearch.o: ../romsearch.c
